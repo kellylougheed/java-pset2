@@ -46,7 +46,7 @@ In summary, you should have the following methods:
 * getLevel
 * isFireBreather
 * gainExperience
-* Attack
+* attack
 
 In Main, construct a dragon and have it gain enough experience until it breathes fire when it attacks. Call the attack method where the dragon breathes fire.
 
