@@ -41,12 +41,12 @@ If the dragon cannot breathe fire, it should print `~ ~ ~`.
 Finally, you should have a method called `gainExperience` that takes no parameters. It should add 10 to the dragon’s level and update `canBreatheFire` if necessary.
 
 In summary, you should have the following methods:
-•	A constructor that takes two parameters - the name and level (in that order)
-•	getName
-•	getLevel
-•	isFireBreather
-•	gainExperience
-•	Attack
+* A constructor that takes two parameters - the name and level (in that order)
+* getName
+* getLevel
+* isFireBreather
+* gainExperience
+* Attack
 
 In Main, construct a dragon and have it gain enough experience until it breathes fire when it attacks. Call the attack method where the dragon breathes fire.
 
