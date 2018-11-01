@@ -92,7 +92,7 @@ In Main, create one of each clothing type.
 
 Create a Java program for a chatbot. The chatbot should continually print responses and prompt the user to respond. As long as the user types a string whose length is greater than 0 into the Scanner, the chatbot will generate a random response.
 
-Find out how to generate random numbers in Java and research how a switch statement works in Java. Use a switch statement to make the bot print out a random response associated with a random number. (There is no need to use arrays here!)
+Find out how to generate random numbers in Java and research how a switch statement works in Java. Use a switch statement to make the bot print out a random response associated with a random number. (There is no need to use arrays here!) Random numbers should range from 0-5, resulting in six differerent responses.
 
 ---
 
