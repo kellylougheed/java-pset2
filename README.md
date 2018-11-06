@@ -94,6 +94,10 @@ Create a Java program for a chatbot. The chatbot should continually print respon
 
 Find out how to generate random numbers in Java and research how a switch statement works in Java. Use a switch statement to make the bot print out a random response associated with a random number. (There is no need to use arrays here!) Random numbers should range from 0-5, resulting in six differerent responses.
 
+**Challenge (+1 pt)**: Have the Chatbot give a special response if the user types in nothing (e.g. "Say something!" or "Why so silent?")
+
+**Challenge (+3 pts)**: Create a second Chatbot program, Chatbot2.java, that does implement an array or an ArrayList. Have the chatbot continually pull random elements from the array or ArrayList for its responses. This chatbot should also continually generate random responses while the user types in a string whose length is greater than 0. Construct and run Chatbot2 in Main.
+
 ---
 
 Problems 2-1 and 2-3 adapted from [CodeHS](https://www.codehs.com/).
