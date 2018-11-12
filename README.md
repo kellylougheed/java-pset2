@@ -96,6 +96,8 @@ Find out how to generate random numbers in Java and research how a switch statem
 
 **Challenge (+1 pt)**: Have the Chatbot give a special response if the user types in nothing (e.g. "Say something!" or "Why so silent?")
 
+**Challenge (+1 pt)**: Create a way for the user to end the conversation with the Chatbot (i.e. the Chatbot could ask "Do you want to keep chatting? y/n" and if the user enters "n", the conversation could end.)
+
 **Challenge (+3 pts)**: Create a second Chatbot program, Chatbot2.java, that does implement an array or an ArrayList. Have the chatbot continually pull random elements from the array or ArrayList for its responses. This chatbot should also continually generate random responses while the user types in a string whose length is greater than 0. Construct and run Chatbot2 in Main.
 
 ---
